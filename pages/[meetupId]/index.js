@@ -7,6 +7,7 @@ function MeetupDetails({ meetupData }) {
   // fetch from backend with id or slug in url router
   return (
     <Fragment>
+      sdfsdf
       <Head>
         <title>{meetupData.title}</title>
         <meta type="description" content={meetupData.description} />
