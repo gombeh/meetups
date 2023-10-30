@@ -4,7 +4,6 @@ import Head from "next/head";
 import { Fragment } from "react";
 
 function MeetupDetails({ meetupData }) {
-  // fetch from backend with id or slug in url router
   return (
     <Fragment>
       <Head>
